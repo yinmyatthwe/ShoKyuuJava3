@@ -5,6 +5,7 @@ public class DisplayCarTrain extends MyFrame {
 		car1.draw(this);
 		Train train1 = new Train (30,150,3,0);
 		train1.draw(this);
+		
 	}
 
 }
